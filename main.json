@@ -203,11 +203,11 @@
         {
          "columns":24,
          "firstgid":10,
-         "image":"tilesets\/rabbit-cave.png",
+         "image":"tilesets\/val-cave.png",
          "imageheight":512,
          "imagewidth":768,
          "margin":0,
-         "name":"rabbit-cave",
+         "name":"val-cave",
          "spacing":0,
          "tilecount":384,
          "tileheight":32,
@@ -249,6 +249,19 @@
          "name":"rc3-mullana-objects",
          "spacing":0,
          "tilecount":128,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":24,
+         "firstgid":682,
+         "image":"tilesets\/coco-cave.png",
+         "imageheight":512,
+         "imagewidth":768,
+         "margin":0,
+         "name":"coco-cave",
+         "spacing":0,
+         "tilecount":384,
          "tileheight":32,
          "tilewidth":32
         }],
