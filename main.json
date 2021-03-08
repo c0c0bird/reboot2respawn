@@ -238,7 +238,7 @@
          "opacity":0,
          "properties":[
                 {
-                 "name":"exitUrl",
+                 "name":"exitSceneUrl",
                  "type":"string",
                  "value":"\/_\/global\/raw.githubusercontent.com\/the-white-one\/chaotischInkorrekt\/gh-pages\/map.json"
                 }],
