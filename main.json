@@ -463,7 +463,7 @@
          "height":70,
          "id":116,
          "name":"exit_chaospott",
-         "opacity":1,
+         "opacity":0,
          "properties":[
                 {
                  "name":"exitUrl",
