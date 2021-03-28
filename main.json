@@ -540,7 +540,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/_\/global\/raw.githubusercontent.com\/c3e\/Workadventure\/master\/main.json"
+                 "value":"\/_\/global\/raw.githubusercontent.com\/c3e\/diVOCWorkadventure\/master\/main.json#start_chaospott"
                 }],
          "type":"tilelayer",
          "visible":true,
