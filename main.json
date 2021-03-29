@@ -283,7 +283,7 @@
          "height":70,
          "id":130,
          "name":"start_kidspace",
-         "opacity":1,
+         "opacity":0,
          "properties":[
                 {
                  "name":"startLayer",
