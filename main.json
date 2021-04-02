@@ -324,7 +324,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/_\/global\/wamaps.c3kidspace.de\/pg-space\/main.json"
+                 "value":"\/_\/global\/world.di.c3voc.de\/maps\/kidspace\/main.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -342,7 +342,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/_\/global\/c3gelb.github.io\/c3gelb\/c3gelb-main.json"
+                 "value":"\/_\/global\/world.di.c3voc.de\/maps\/c3gelb\/c3gelb-main.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -414,7 +414,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/_\/global\/raw.githubusercontent.com\/raumzeitlabor\/divoc-map-lounge\/master\/main.json"
+                 "value":"\/_\/global\/world.di.c3voc.de\/maps\/lounge\/main.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -450,7 +450,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/_\/global\/raw.githubusercontent.com\/hexchen\/chaotischInkorrekt\/gh-pages\/map.json"
+                 "value":"\/_\/global\/world.di.c3voc.de\/maps\/chaotischinkorrekt\/map.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -486,7 +486,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/_\/global\/raw.githubusercontent.com\/BjWe\/HSB-Map\/main\/main.json"
+                 "value":"\/_\/global\/world.di.c3voc.de\/maps\/space.bi\/main.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -522,7 +522,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/_\/global\/raw.githubusercontent.com\/ChaosChemnitz\/workadventure-map\/r2r\/chch\/a102_2OG.json"
+                 "value":"\/_\/global\/world.di.c3voc.de\/maps\/chaoschemnitz\/chch\/a102_2OG.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -558,7 +558,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/_\/global\/raw.githubusercontent.com\/faultierkatze\/virtual-afra\/master\/map.json"
+                 "value":"\/_\/global\/world.di.c3voc.de\/maps\/afra\/map.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -594,7 +594,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/_\/global\/raw.githubusercontent.com\/c3woc\/workadventure\/divoc\/main.json\n"
+                 "value":"\/_\/global\/world.di.c3voc.de\/maps\/c3woc\/main.json\n"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -630,7 +630,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/_\/global\/devlol-systems.pages.devlol.org\/vspace-workadv\/main.json"
+                 "value":"\/_\/global\/world.di.c3voc.de\/maps\/devlol\/main.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -666,7 +666,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/_\/global\/rc3.c-base.org\/divoc-map\/main.json"
+                 "value":"\/_\/global\/world.di.c3voc.de\/maps\/cbase\/main.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -702,7 +702,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/_\/global\/maps.raveadventu.re\/workadventure-playground\/main.json"
+                 "value":"\/_\/global\/world.di.c3voc.de\/maps\/marburg\/main.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -738,7 +738,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/_\/global\/fbthb.github.io\/r2r\/main.json"
+                 "value":"\/_\/global\/world.di.c3voc.de\/maps\/binhacken\/main.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -774,7 +774,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/_\/global\/klemmi.codeberg.page\/wa\/zittau.json"
+                 "value":"\/_\/global\/world.di.c3voc.de\/maps\/polytechnischerwerkraum\/zittau.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -810,7 +810,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/_\/global\/raw.githubusercontent.com\/c3e\/diVOCWorkadventure\/master\/main.json#start_chaospott"
+                 "value":"\/_\/global\/world.di.c3voc.de\/maps\/chaospott\/main.json#start_chaospott"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -846,7 +846,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/_\/global\/namiko.github.io\/assembly\/main.json"
+                 "value":"\/_\/global\/world.di.c3voc.de\/maps\/hacksen\/main.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -882,7 +882,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/_\/global\/raw.githubusercontent.com\/patzi\/rc3-tp-assembly-world\/master\/r2r-tp\/main.json"
+                 "value":"\/_\/global\/world.di.c3voc.de\/maps\/toppoint\/r2r-tp\/main.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -918,7 +918,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/_\/global\/raw.githubusercontent.com\/muccc\/rc3test\/master\/main.json"
+                 "value":"\/_\/global\/world.di.c3voc.de\/maps\/muccc\/main.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -954,7 +954,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/_\/global\/raw.githubusercontent.com\/Eigenbaukombinat\/workadventuretest\/master\/main.json"
+                 "value":"\/_\/global\/world.di.c3voc.de\/maps\/eigenbaukombinat\/main.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -990,7 +990,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/_\/global\/eventphone.github.io\/rc3-poc\/main.json"
+                 "value":"\/_\/global\/world.di.c3voc.de\/maps\/eventphone\/main.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -1026,7 +1026,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/_\/global\/r2r.computertruhe.de\/main.json"
+                 "value":"\/_\/global\/world.di.c3voc.de\/maps\/computertruhe\/main.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -1062,7 +1062,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/_\/global\/das-labor.github.io\/workadv_das-labor\/main.json"
+                 "value":"\/_\/global\/world.di.c3voc.de\/maps\/daslabor\/main.json"
                 }],
          "type":"tilelayer",
          "visible":true,
